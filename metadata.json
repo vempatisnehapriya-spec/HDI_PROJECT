@@ -1,0 +1,8 @@
+{
+  "name": "HDI Prediction System",
+  "description": "A comprehensive full-stack web application that trains a machine learning model on human development indicator datasets to predict Human Development Index (HDI) categories, featuring interactive sliders, dataset statistics, and AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
